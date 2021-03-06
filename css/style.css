@@ -1,0 +1,86 @@
+.row-header{
+
+    margin: 0px auto;
+    padding: 20px 30px 20px 30px;
+
+}
+
+.footer{
+    padding : 70px 30px 70px 30px;
+    margin : 0px auto;
+    color:rgb(27, 27, 26);
+    background:#525252;
+}
+
+
+footer h5{
+    color: white;
+    border-bottom: 1px ridge;
+    font-weight: bold;
+}
+
+footer p{
+    color: white;
+    border-bottom: 1px ridge;
+}
+footer address{
+    font-weight: bold;
+    color:white;
+    font-family: 'Times New Roman', Times, sans-serif;
+    
+}
+
+.h3style{
+    background-color: skyblue;
+    font: large;
+}
+footer a{
+    color : white;
+    border-bottom: 1px;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+.row-content{
+ margin: 0px auto ;
+padding: 50px 0px 50px 0px;
+border-bottom: 1px ridge;
+min-height: 280px;
+
+}
+
+address{
+    font-size: 80%;
+    color:black;
+}
+
+.jumbotron{
+
+    padding : 50px 30px 50px 30px;
+    margin : 0px auto;
+    color:burlywood;
+    background:crimson;
+}
+
+.navbar-dark {
+    background-color:#525252;
+
+}
+
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0
+}
+
+nav ul{
+    padding: 10px;
+    margin-left: 40px;
+    align-items: center;
+}
+
+nav a{
+    padding: 100px;
+    font-weight: bold;
+    color:black;
+}
